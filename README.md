@@ -1,4 +1,4 @@
-# 자바로 작성한 알고리즘 기법   
+## 자바로 작성한 알고리즘 기법   
 
 
 - [최대값 찾기](src/js/pekah/basic/FindMaximum.java)   
