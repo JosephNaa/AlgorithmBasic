@@ -15,3 +15,5 @@
 - [선택 정렬](src/js/pekah/basic/SelectionSort.java)
 
 - [삽입 정렬](src/js/pekah/basic/InsertionSort.java)
+
+- [힙 정렬](src/js/pekah/basic/HeapSort.java)
